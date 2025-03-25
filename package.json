@@ -1,9 +1,11 @@
 {
   "name": "my-button",
-  "main":"index.js",
+  "main": "index.js",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@babel/plugin-syntax-jsx": "^7.25.9",
+    "@babel/preset-react": "^7.26.3",
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
     "@testing-library/react": "^16.2.0",
